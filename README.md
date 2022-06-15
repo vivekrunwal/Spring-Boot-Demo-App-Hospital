@@ -1,5 +1,6 @@
 # spring-multi-module-application
-How to create Maven multi module project in spring boot 
+How to create Maven multi module project in spring boot. 
+
 Slight Fixes to below link
 Credits: https://github.com/Java-Techie-jt/spring-multi-module-application
 # project structure
